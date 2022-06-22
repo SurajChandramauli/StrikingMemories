@@ -71,36 +71,6 @@
 
 <h1> </h1>
 
-## 💻 &nbsp; Setup
-
-- To run this project,  locally on your system
-- Fork this repo and run the `git clone <forked repo>` command from your terminal/bash
-- Create a `.env` file in the following  directory and store the following:
-  - On client directory 
-    - REACT_APP_GOOGLE_CLIENT_ID=Insert the valid google client id
-  - On server directory   
-    - CONNECTION_URL=Insert the correct connection URL for your MongoDB database
-  
-```
-$ cd  server 
-$ npm install (install backend dependencies)
-$ cd client
-$ npm install (install frontend dependencies)
-$ cd ..
-$ cd sever
-$ npm start (for Node server side development)
-$ cd ..
-$ cd client 
-$ npm start (for React client side development)
-```
-
-- Backend server will be running on http://localhost:5000
-- Frontend server will be running on http://localhost:3000
-
-> For CONNECTION_URL for the backend server, you have to   visit [mongodb atlas](https://www.mongodb.com/cloud/atlas). Here you can create your own collection and can use connect app URL for CONNECTION_URL
-
-> For Google client Id you have to visit [Google developers console](https://console.cloud.google.com/apis/dashboard?pli=1) from here generate your respective client Id 
-
 <h1></h1>
 
 
