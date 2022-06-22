@@ -158,11 +158,4 @@ $ npm start (for React client side development)
 - Mongodb can be replaced by SQL type DB
 - Material UI can be replaced  by BootStrap
 
-# Author
 
-👤 &nbsp; **Atharva Yawalkar**
-
-- My website : [My website](https://atharva137.github.io/Atharva_Yawalkar/myPortfolio/)
-- Github :     [@atharva137](https://github.com/atharva137)
-- Linkedin :   [Atharva-yawalkar](https://www.linkedin.com/in/atharva-yawalkar-2416b41b2/)
-- Email :      [atharvayawalkar1377@gmail.com](mailto:atharvayawalkar1377@gmail.com)
