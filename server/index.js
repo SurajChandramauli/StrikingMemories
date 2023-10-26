@@ -29,7 +29,7 @@ app.get('/', (req, res) => {
   res.send('API is running')
 })
 // MongoDB connection URL
-const CONNECTION_URL = 'mongodb+srv://memories:1234@cluster0.jyiv9zm.mongodb.net/?retryWrites=true&w=majority';
+const CONNECTION_URL = process.env.URI;
 
 //config PORT
 const PORT = process.env.PORT || 5000
